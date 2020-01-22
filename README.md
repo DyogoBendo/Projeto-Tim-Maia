@@ -1,8 +1,8 @@
 ## Projeto Tim Maia 2020
 
-# Membros = {
+Membros = {
    Daniel,
    Dyogo,
    Nikoly,
    Vinicius
-# };
+};
