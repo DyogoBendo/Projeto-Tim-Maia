@@ -5,5 +5,4 @@ Membros = {
    Dyogo,
    Nikoly,
    Vinicius
-   Vamos testar
 };
